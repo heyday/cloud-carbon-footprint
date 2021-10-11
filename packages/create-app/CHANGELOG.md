@@ -1,5 +1,15 @@
 # @cloud-carbon-footprint/create-app
 
+## 1.0.2
+
+### Patch Changes
+
+- 639c03d0: Changes timeframe for data in Recommendations Forecast to only be monthly
+
+  Please refer to this [commit](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/commit/0a818fbad4449af2082f7cd388682bb782e2a813) for updates to the create-app templates.
+
+- 6b03f382: Bumps json-server depenedency
+
 ## 1.0.1
 
 ### Patch Changes
